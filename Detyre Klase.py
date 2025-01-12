@@ -69,3 +69,5 @@ print(f"Input - original Word: {original_word}")
 # OUPUT - new_word - > vlera e re do ruhet tek variable new_word
 new_word = lowercase(original_word)
 print(f"Fjala e re eshte: {new_word}")
+
+print("world")

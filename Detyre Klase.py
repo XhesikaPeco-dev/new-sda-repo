@@ -71,3 +71,4 @@ new_word = lowercase(original_word)
 print(f"Fjala e re eshte: {new_word}")
 
 print("world")
+print("one")
